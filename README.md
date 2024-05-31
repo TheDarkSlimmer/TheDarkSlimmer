@@ -2,13 +2,13 @@
 <h3 align="center">A passionate frontend developer and UI/UX Designer</h3>
 
 - 🔭 I’m have worked on and currently improving on [AmaLink](https://amalink.vercel.app/),
-     which is a web application I designed to simplify video calling. It is Built with React.js and TypeScript and it features a user-friendly interface for video calls, messaging, and customizable meeting names.
+     which is a web application I designed to simplify video calling. It is built with React.js and TypeScript and it features a user-friendly interface for video calls, messaging, and customizable meeting names.
   
 - 🎮 I have worked on [Guessing Game](https://guessmynumber-thedarkslimmer.vercel.app/)
 
 - 🌱 I’m currently learning **Sass, More of React JS, JavaScript and TypeScript**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://amaosabaodoom.vercel.app/)
+- 👨‍💻 More information about me as a developer is available at [My Portfolio](https://amaosabaodoom.vercel.app/)
 
 - 💬 Ask me about **React, CSS, HTML, JavaScript, TypeScript**
 
