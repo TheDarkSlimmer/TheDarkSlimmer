@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Sass, More of React JS, JavaScript and TypeScript**
 
-- 👨‍💻 All of my projects are available at my [Portfolio](https://amaosabaodoom.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://amaosabaodoom.vercel.app/)
 
-- 💬 Ask me about **React,CSS,HTML,JavaScript,TypeScript**
+- 💬 Ask me about **React, CSS, HTML, JavaScript, TypeScript**
 
 - 📫 How to reach me **amaosabaodoom@gmail.com**
 
@@ -18,8 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ama osaba odoom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ama osaba odoom" height="30" width="40" /></a>
-<a href="https://fb.com/ama osaba odoom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ama osaba odoom" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ama-osaba-odoom-9b666a73/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ama osaba odoom" height="30" width="40" /></a>
 <a href="https://instagram.com/_slimlegendxo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_slimlegendxo" height="30" width="40" /></a>
 </p>
 
