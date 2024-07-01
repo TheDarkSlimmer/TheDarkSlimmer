@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋😀, I'm Ama Osaba Odoom</h1>
 <h3 align="center">A passionate frontend developer and UI/UX Designer</h3>
 
-- 🔭 I’m have worked on and currently improving on [AmaLink](https://amalink.vercel.app/),
+- 🔭 I have worked on and currently improving on [AmaLink](https://amalink.vercel.app/),
      which is a web application I designed to simplify video calling. It is built with React.js and TypeScript and it features a user-friendly interface for video calls, messaging, and customizable meeting names.
   
 - 🎮 I have worked on [Guessing Game](https://guessmynumber-thedarkslimmer.vercel.app/)
